@@ -1,5 +1,4 @@
-TaskManager
-Overview
+
 TaskManager is a simple yet effective task management application built using Java. It allows users to create, update, delete, and manage tasks efficiently. The project demonstrates key software development skills including object-oriented programming, database interaction, and GUI development using Swing.
 
 Features
